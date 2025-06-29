@@ -27,5 +27,3 @@ Trained with PyTorch and saved as `model.pth`.
 
 ---
 
-## 📁 Project Structure
-
